@@ -1,0 +1,7 @@
+#required libraries
+langchain
+langchain-core
+langchain-groq
+pydantic
+python-dotenv
+streamlit
